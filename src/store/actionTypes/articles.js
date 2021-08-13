@@ -1,0 +1,4 @@
+export const OPEN_ARTICLE = 'OPEN_ARTICLE'
+export const CLOSE_ARTICLE = 'CLOSE_ARTICLE'
+export const OPEN_COMMENTS = 'OPEN_COMMENTS'
+export const CLOSE_COMMENTS = 'CLOSE_COMMENTS'
